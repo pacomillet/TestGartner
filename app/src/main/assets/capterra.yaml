@@ -1,0 +1,15 @@
+applications:
+  tag1:
+    tags: "Bugs & Issue Tracking,Development Tools"
+    name: "GitGHub"
+    twitter: "github"
+
+  tag2:
+    tags: "Instant Messaging & Chat,Web Collaboration,Productivity"
+    name: "Slack"
+    twitter: "slackhq"
+
+  tag3:
+    tags: "Project Management,Project Collaboration,Development Tools"
+    name: "JIRA Software"
+    twitter: "jira"

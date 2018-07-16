@@ -1,0 +1,22 @@
+# SaaS Products Import
+
+## About installation:
+ 1.- If you want execute the code, you need install android studio IDE or install the apk file located "\MyApplication\app\build\outputs\apk\debug"
+ 2.- The results are printed in the console.
+
+
+## About Code:
+1.- I get the files to read them from assets folder like feed-products
+2.- I have used the external library  " snakeyaml-1.10-android.jar" , from "https://code.google.com/archive/p/snakeyaml/downloads",
+ to read the yaml file for Android
+3.- I have used the native JSON library of Android SDK to read Json file
+4.- You need to execute de code an Android minSdkVersion 19 device.
+5.- I have printed the date in the console and in the layout. You can se the date in your Android device
+
+
+## About Unit tests
+I used selenium to integration testing in my last experience and a only a bit for Unit testing.
+For android is possible to used Unit tests using AndroidJUnit4.class in android Test.
+
+## About Improvements
+If I had more time I would have read the data from an url and would have saved data into database to update them. (SQLite is used for Android internal database)
