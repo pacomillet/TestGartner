@@ -19,4 +19,5 @@ I used selenium to integration testing in my last experience and a only a bit fo
 For android is possible to used Unit tests using AndroidJUnit4.class in android Test.
 
 ## About Improvements
-If I had more time I would have read the data from an url and would have saved data into database to update them. (SQLite is used for Android internal database)
+If I had more time I would have read the data from an url and would have saved data into database to update them.
+(SQLite is used for Android internal database)

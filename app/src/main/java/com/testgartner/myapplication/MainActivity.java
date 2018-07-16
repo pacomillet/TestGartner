@@ -49,7 +49,6 @@ public class MainActivity extends AppCompatActivity {
             //put text from yaml file to view
             yamlText.setText(yaml.dump( data ));
 
-
             //get softwareadvice data from assets folder
             inputJson = getResources().getAssets().open(fileNameSoftwareadvice);
 
